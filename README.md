@@ -1,3 +1,3 @@
-# PlotProject PhoneGap Template
+# PlotProjects PhoneGap Template
 
 A PhoneGap BeaconEdge
